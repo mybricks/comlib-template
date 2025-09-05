@@ -1,0 +1,15 @@
+{
+  "componentType": "HM",
+  "comAry": [
+    {
+      "title": "基础",
+      "comAry": [
+        "./src/button/com.json"
+      ]
+    }
+  ],
+  "namespace": "",
+  "tags": "react",
+  "domain": "",
+  "userName": ""
+}
